@@ -40,13 +40,13 @@ Motivation: Why is this project important to me?
 
 *   This project is important is important to me because of the potential impact it will have on my new job. I think this course will greatly accelerate my advancement at my job.
 
-Specific and measurable goals (learning objectives):
+Specific and measurable goals (learning objectives & time required):
 
-*   Learn to provision/deploy development/test/production servers
-*   Build an Ansible server and deploy configuration to clients
-*   Automate tedious tasks
-*   Communicate with remote servers
-*   Troubleshoot Ansible issues
+*   Learn to provision/deploy development/test/production servers (5 weeks)
+*   Build an Ansible server and deploy configuration to clients (2 week)
+*   Automate tedious tasks (2 weeks)
+*   Communicate with remote servers (1 week)
+*   Troubleshoot Ansible issues (1 week)
 
 Risks to project completion, including:
 
@@ -71,24 +71,3 @@ Project assessments – provide a list of evaluation criteria for the project
 Project portfolio link
 
 http:1nimajneb.github.io/blog
-
-#### What I worked on Last Week
-<ul>
-    <li>Picked a specific DevOps course https://udemy.com/course/complete-ansible-devops-automation-training</li>
-    <li>Watched first hour of courses</li>
-    <li></li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
